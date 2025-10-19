@@ -66,7 +66,6 @@ This is my current toolkit for building projects. I'm always eager to learn more
 
 - **Leetcode** [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/>](https://leetcode.com/u/Prakhar_Logics/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechNinja-dev&show_icons=true&theme=radical) 
 
 <!--
 Next Step for you, Prakhar:
