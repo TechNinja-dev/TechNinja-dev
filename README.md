@@ -1,16 +1,16 @@
-## Hi there 👋 Prakhar This Side
+# Hi, I'm Prakhar Srivastava 👋
 
-<!--
-**TechNinja-dev/TechNinja-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Python-based developer** passionate about **AI/ML** and building **web services integrated with AI**.  
+I enjoy working with **FastAPI, React, Tailwind CSS, and MongoDB**, and I’m exploring **Firebase integration**.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: AI/ML projects and web services  
+- 🌱 Learning: Advanced web integrations and AI deployment  
+- 💬 Ask me about: Python, AI/ML, FastAPI, React, Tailwind CSS, MongoDB  
+- ⚡ Fun fact: I also practice **DSA on LeetCode**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+- 💻 **Check out my digital playground where code meets creativity** → [Click here](https://your-portfolio-link.com)  
+- [LeetCode](https://leetcode.com/your-username)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechNinja-dev&show_icons=true&theme=radical)
