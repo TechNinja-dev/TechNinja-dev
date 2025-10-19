@@ -9,8 +9,8 @@ I enjoy working with **FastAPI, React, Tailwind CSS, and MongoDB**, and I’m ex
 - ⚡ Fun fact: I also practice **DSA on LeetCode**  
 
 📫 Connect with me:  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/prakhar-srivastava-58bb85303/)  
 - 💻 **Check out my digital playground where code meets creativity** → [Click here](https://portfolio-six-fawn-3q5nmgvo8d.vercel.app/)  
-[![LeetCode](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg)](https://leetcode.com/u/Prakhar_Logics/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>](https://www.linkedin.com/in/prakhar-srivastava-58bb85303/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30"/>](https://leetcode.com/u/Prakhar_Logics/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechNinja-dev&show_icons=true&theme=radical)
