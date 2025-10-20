@@ -61,11 +61,21 @@ This is my current toolkit for building projects. I'm always eager to learn more
 
 
 
-📫 Connect with me:  
-- 💻 **Check out my digital playground where code meets creativity** → [Click here](https://portfolio-six-fawn-3q5nmgvo8d.vercel.app/)  
-- **LinkedIn** [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://www.linkedin.com/in/prakhar-srivastava-58bb85303/)  
+## 📫 Connect with Me  
 
-- **Leetcode** [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/>](https://leetcode.com/u/Prakhar_Logics/)
+💻 **Check out my digital playground where code meets creativity:**  
+👉 [**Portfolio Website**](https://portfolio-six-fawn-3q5nmgvo8d.vercel.app/)  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prakhar-srivastava-58bb85303/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" style="margin-right: 20px;" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://leetcode.com/u/Prakhar_Logics/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height="40" style="margin-right: 20px;" alt="LeetCode" />
+  </a>
+</p>
+
 
 
 <!--
