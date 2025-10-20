@@ -44,8 +44,9 @@ This is my current toolkit for building projects. I'm always eager to learn more
 ### ⚛️ Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin-right: 20px; margin-bottom: 10px;" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" style="margin-right: 20px; margin-bottom: 10px;" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" style="margin-right: 20px; margin-bottom: 10px;" alt="Tailwind CSS" />
 </p>
+
 
 ### 🗄️ Database & Cloud
 <p align="left">
