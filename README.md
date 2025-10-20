@@ -29,50 +29,6 @@ I am a **Python-based developer** specializing in building intelligent web appli
 
 - Actively solving problems on **LeetCod**e to sharpen my data structures and algorithms skills.
 
-## 💻 My Tech Stack
-
-This is my current toolkit for building projects. I'm always eager to learn more!
-
-### 🧠 Backend
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SciKit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  </a>
-</p>
-
-### ⚛️ Frontend
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  </a>
-</p>
-
-### 🗄️ Database & Cloud
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  </a>
-</p>
-
-### 🧰 Tools & Version Control
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-</p>
-
 
 ## 💻 My Tech Stack
 
@@ -80,27 +36,28 @@ This is my current toolkit for building projects. I'm always eager to learn more
 
 ### 🧠 Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-Learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin-right: 20px; margin-bottom: 10px;" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" style="margin-right: 20px; margin-bottom: 10px;" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" style="margin-right: 20px; margin-bottom: 10px;" alt="Scikit-Learn" />
 </p>
 
 ### ⚛️ Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin-right: 20px; margin-bottom: 10px;" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" style="margin-right: 20px; margin-bottom: 10px;" alt="Tailwind CSS" />
 </p>
 
 ### 🗄️ Database & Cloud
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" style="margin-right: 20px; margin-bottom: 10px;" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" style="margin-right: 20px; margin-bottom: 10px;" alt="Firebase" />
 </p>
 
 ### 🧰 Tools & Version Control
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="margin-right: 20px; margin-bottom: 10px;" alt="Git" />
 </p>
+
 
 
 📫 Connect with me:  
