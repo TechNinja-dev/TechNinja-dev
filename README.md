@@ -21,13 +21,13 @@ I enjoy working with **FastAPI, React, Tailwind CSS, and MongoDB**, and I’m ex
 
 I am a **Python-based developer** specializing in building intelligent web applications. My focus is on creating scalable backends with FastAPI and integrating AI/ML models to deliver smart, data-driven user experiences.
 
-🚀 What I'm Up To
+## 🚀 What I'm Up To
 
-Building and deploying **AI-powered web services** (check out my pinned projects below!).
+- Building and deploying **AI-powered web services** (check out my pinned projects below!).
 
-Currently exploring advanced AI deployment techniques and integrating **Firebase** for real-time features.
+- Currently exploring advanced AI deployment techniques and integrating **Firebase** for real-time features.
 
-Actively solving problems on **LeetCod**e to sharpen my data structures and algorithms skills.
+- Actively solving problems on **LeetCod**e to sharpen my data structures and algorithms skills.
 
 ## 💻 My Tech Stack
 
