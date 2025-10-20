@@ -36,9 +36,11 @@ This is my current toolkit for building projects. I'm always eager to learn more
 
 ### 🧠 Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin-right: 60px; margin-bottom: 10px;" alt="Python" /><pre>     </pre>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" style="margin-right: 60px; margin-bottom: 10px;" alt="FastAPI" /><pre>     </pre>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" style="margin-right: 60px; margin-bottom: 10px;" alt="Scikit-Learn" /><pre>     </pre>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin-right: 60px; margin-bottom: 10px;" alt="Python" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" style="margin-right: 60px; margin-bottom: 10px;" alt="FastAPI" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" style="margin-right: 60px; margin-bottom: 10px;" alt="Scikit-Learn" />
 </pre>
 
 ### ⚛️ Frontend
